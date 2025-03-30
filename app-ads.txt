@@ -1,1 +1,15 @@
-google.com,pub-7936236635657883,DIRECT,f08c47fec0942fa0
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="google-site-verification" content="TpubX0CiVg5HNcN6DuO8WjMeS9xueKvmE-lVFvfyjoM" />
+  <title>My app ads page</title>
+  
+</head>
+
+  <body> 
+    <h1>Welcome to My App Ads Page</h1>
+    <h2>google.com,pub-7936236635657883,DIRECT,f08c47fec0942fa0</h2>
+  </body>
+</html>
+
